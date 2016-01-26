@@ -1,6 +1,6 @@
 name: George L.W. Zard
 favicon: null
-layout_spectrum: 0.7694876154419035
+layout_spectrum: 1
 typography_spectrum: 0.8773380911443383
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.7495910874567926
-  lightness: 0.4663797386456281
-  saturation: 0.18124380661174655
-  rhythmicContrast: 0.7209416243713349
+    - '#a2b5c0'
+    - '#09090a'
+    - '#41586b'
+    - '#7a93a4'
+    - '#efeeed'
+  brandStrength: 0.25
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose: []
