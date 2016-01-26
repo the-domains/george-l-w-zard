@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[George L.W. Zard]]></title>
+        <description><![CDATA[George L.W. Zard]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Jan 2016 23:06:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[An attempt to avoid the subjectivity of purpose...]]></title>
+            <description><![CDATA[<article><h1>An attempt to avoid the subjectivity of purpose...</h1><h2>Most people would rather die than think and many of them do!</h2><p>Therefore it is simply out of the nihilistic yet poignantly hopeful mind of an intrepid explorer into all things subversive that the diatribe encapsulated within this physically intangible vessel seeks to obtain pronunciation in the shared greatest common factor of the lowest common denominator of  human concepts concepts intermittently referred to as "culture". As such, its proprietor chooses to leave you with a hopefully in-dubious axiom for which to base upon what the reader assumedly identifies as their "take away" from this is...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7ced99e6bae74e42a6594ba6faea1a0d5c04d29.jpg"></article>]]></description>
+            <link>undefinedan-attempt-to-avoid-the-subjectivity-of-purpose/index.html</link>
+            <guid isPermaLink="false">ff4cb41a-cc9e-4da3-924a-1c015746455e</guid>
+            <pubDate>Tue, 26 Jan 2016 23:06:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
